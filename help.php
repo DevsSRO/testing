@@ -1,5 +1,5 @@
 <div class="date-container">
-    <p>
+    <p class="main-title">
         <strong>
             <?= date("d-m-Y"); ?>
         </strong>
