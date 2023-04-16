@@ -1,3 +1,11 @@
+<div class="new">
+    <p class="main-title title title_m">
+        <strong>
+            <?= date("d-m-Y"); ?>
+        </strong>
+    </p>
+</div>
+
 <div class="date-container">
     <p>
         - это текущая дата!
@@ -5,11 +13,4 @@
     <h2>
         NEWWWW
     </h2>
-</div>
-<div class="new">
-    <p class="main-title title title_m">
-        <strong>
-            <?= date("d-m-Y"); ?>
-        </strong>
-    </p>
 </div>
